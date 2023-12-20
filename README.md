@@ -11,6 +11,8 @@ Akhdany Ichsar	(21050974038)
 
 
 
+
+
 **LATAR BELAKANG**
 
 Di era globalisasi modern saat ini, khususnya di bidang Teknologi Jaringan Internet telah mengalami perkembangan yang sangat pesat. Bahkan hampir seluruh lini kehidupan kita telah menggunakan teknologi tersebut dan telah merasakan manfaatnya, tidak terkecuali sudah semakin banyaknya instansi pendidikan yang sudah menggunakan jaringan komputer sebagai sarana untuk membantu proses pembelajaran oleh para staff pengajar atau para siswa ataupun untuk hanya sekedar melakukan pertukaran data (data sharing).
