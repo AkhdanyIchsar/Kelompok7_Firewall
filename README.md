@@ -1,4 +1,9 @@
 # Kelompok7_Firewall
+Anggota:
+Mohammad Yusril Luqman Hakim	(21050974002)
+Galang Satria Pratama Putra	(21050974017)
+Muh. Alief Al Manaqibi	(21050974024)
+Akhdany Ichsar	(21050974038)
 
 **LATAR BELAKANG**
 
