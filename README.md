@@ -10,6 +10,7 @@ Muh. Alief Al Manaqibi	(21050974024)
 Akhdany Ichsar	(21050974038)
 
 
+
 **LATAR BELAKANG**
 
 Di era globalisasi modern saat ini, khususnya di bidang Teknologi Jaringan Internet telah mengalami perkembangan yang sangat pesat. Bahkan hampir seluruh lini kehidupan kita telah menggunakan teknologi tersebut dan telah merasakan manfaatnya, tidak terkecuali sudah semakin banyaknya instansi pendidikan yang sudah menggunakan jaringan komputer sebagai sarana untuk membantu proses pembelajaran oleh para staff pengajar atau para siswa ataupun untuk hanya sekedar melakukan pertukaran data (data sharing).
@@ -30,6 +31,7 @@ Diharapkan dengan proposal ini, akan tercapai pemahaman yang lebih baik tentang 
 **DESKRIPSI**
 
 **1.	MIKROTIK**
+
 Mikrotik merupakan sistem operasi dan perangkat lunak yang digunakan untuk menjadikan router network yang handal. Mikrotik mencakup berbagai fitur yang dibuat untuk IP network dan jaringan wireless, biasanya dapat digunakan sebagai hotspot. Mikrotik sudah banyak digunakan oleh pengusaha warnet karena berbagai fitur yang diberikan oleh router mikrotik.
 
 **Fungsi Mikrotik :**
