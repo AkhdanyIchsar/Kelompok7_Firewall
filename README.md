@@ -62,34 +62,61 @@ Fungsi Virtual Box:
 
 LANGKAH-LANGKAH
 1.	Buka Winbox pada PC.
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/4ebabb33-5f0d-4a30-92d7-5e3b1c0f19e9)
 
+
 2.	Klik titik 3 dan pilih MAC Address yang muncul, lalu setelah itu klik Conect.
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/45c95247-62af-45ee-93fe-4e3d48455116)
 
+
 3.	Klik IP lalu pilih/klik Firewall.
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/a460b3ff-8b0f-4a0b-b68d-db7afca72add)
 
+
 4.	Klik tab Filter Rules lalu tambah (+).
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/2ac2505f-688b-4d7f-a1c0-c2a445b64a1b)
 
+
 5.	Masuk pada tab General isi Chain: forward dan Dst. Address: alamat IP yang ingin diblokir seperti pada gambar di bawah.
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/6c4a2e6c-a908-4152-b3be-9c011acf61de)
 
+
 6.	Setelah itu masuk pada tab Action lalu isi Action: drop seperti pada gambar di bawah.
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/aa0da509-9cbb-4700-8d96-477968454304)
 
+
 7.	Setelah itu klik OK. Lalu akan muncul seperti gambar di bawah.
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/6db67e62-54dd-4cd6-a35e-b1c647ed48f8)
+
 
 8.	Lalu test ping pada alamat IP yang sudah diblokir.
 9.	Buka Command Prompt.
 10.	Ketikkan ping (alamat ip yang sudah diblokir).
 11.	Hasil ping akan seperti pada gambar di bawah ini.
+
+ 
  ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/a9cf78f5-459e-43f2-839f-266a2486ed1a)
 
+
 12.	Jika Firewall dalam keadaan disable, maka saat melakukan ping ke alamat IP yang sudah diblokir tadi akan berhasil seperti pada gambar di bawah.
+ 
+  
   ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/df5db5d1-9b7c-4577-9984-61742631b2aa)
+
 
 KESIMPULAN
 
