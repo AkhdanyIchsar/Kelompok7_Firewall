@@ -132,14 +132,5 @@ Virtualbox adalah perangkat lunak virtualisasi untuk menginstal sistem operasi "
   ![image](https://github.com/AkhdanyIchsar/Kelompok7_Firewall/assets/116287420/df5db5d1-9b7c-4577-9984-61742631b2aa)
 
 
-**KESIMPULAN**
 
-Berdasarkan pembahasan diatas dapat disimpulkan yaitu:
-1.	Service Firewall sangat dibutuhkan dalam sebuah jaringan dan juga browser, sangat mendukung bagi para pengguna seperti Guru contohnya yang dapat memblokir situs asing yang mengganggu para Siswa yang menggunakanya dan dengan menggunakan Firewall dari Mikrotik pengguna lab komputer dapat memblokir yang berkaitan dengan penggunaan komputer yang di luar pendidikan sekolah tersebut
-2.	Penggunaan MikroTik sebagai solusi firewall memberikan perlindungan yang efektif terhadap ancaman siber seperti serangan malware, hacking, dan akses tidak sah. Konfigurasi yang cermat dapat menjadi lapisan pertahanan yang kuat untuk menjaga integritas jaringan.
-3.	Lingkungan virtualisasi Virtualbox terbukti menjadi alat uji yang efektif dalam mengimplementasikan dan menguji konfigurasi firewall tanpa mempengaruhi jaringan asli. Hal ini memberikan keuntungan pengujian yang lebih aman dan efisien.
-
-**SARAN**
-
-Penulis sangat menyadari bahwa pembuatan proposal ini masih memiliki banyak kekurangan, sehingga sangat diperlukan kritik dan saran yang membangun agar nantinya dapat digunakan sebagai pengetahuan bagaimana langkah-langkah mengimplementasikan firewall mikrotik dalam keamanan jaringan agar lebih baik lagi.
 
